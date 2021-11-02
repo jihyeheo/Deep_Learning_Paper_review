@@ -9,3 +9,7 @@
   
   ## [3] R-CNN
   Ross Girshich, Jeff Donahue, Trevor Darrell, Jitendra Malik et al, "Rich feature hierarchies for accurate onject detection and semantic segmentation"
+  
+## [4] Fast R-CNN
+
+Ross,"Fast R-CNN", 2015
