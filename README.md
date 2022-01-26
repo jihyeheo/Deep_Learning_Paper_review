@@ -19,3 +19,5 @@ Ross,"Fast R-CNN", 2015
 
 ## [6] Mask R-CNN
 Kaiming He et al, "Mask R-CNN" 
+
+## [7] YOLOv3
