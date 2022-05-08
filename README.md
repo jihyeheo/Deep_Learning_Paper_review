@@ -25,3 +25,5 @@ Kaiming He et al, "Mask R-CNN"
 ## [8] Noise reduction using patch-based CNN in images
 
 ## [9] Viola Jones
+
+## [10] DCGAN
