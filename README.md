@@ -40,3 +40,5 @@ Kaiming He et al, "Mask R-CNN"
 ### [11] SSD [20220526]
 
 ### [12] SPPNet [20220706]
+
+### [13] SRGAN [20220818]
